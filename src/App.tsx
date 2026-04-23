@@ -86,7 +86,7 @@ export default function App() {
               <p className="text-[10px] uppercase tracking-[0.3em] text-gold mb-4 flex items-center gap-2">
                 <MapPin size={12} strokeWidth={3} /> The Venue
               </p>
-              <p className="text-3xl font-serif leading-tight">The Nest</p>
+              <p className="text-3xl font-serif leading-tight">The Den</p>
               <p className="text-sm uppercase tracking-widest opacity-60">Hotel Grand Sharda</p>
             </motion.div>
 
@@ -114,7 +114,7 @@ export default function App() {
         <footer className="p-8 md:p-12 flex flex-col md:flex-row justify-between items-center md:items-end gap-6">
           <motion.div variants={itemVariants} className="max-w-xs text-center md:text-left">
             <p className="text-[10px] leading-relaxed opacity-40 uppercase tracking-[0.2em]">
-              Kindly RSVP by the fifteenth of April.<br/>Dress Code: Semi-Formal / Elegant.
+              Dress Code: Semi-Formal / Elegant.
             </p>
           </motion.div>
           
